@@ -15,7 +15,7 @@ orientation: horizontal
   filename: Terminal
   ---
   ```bash
-  npx nuxi init -t github:nuxt-ui-pro/docs4564655
+  npx nuxi init -t github:nuxt-ui-pro/docs
   ```
   :::
 
