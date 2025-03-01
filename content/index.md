@@ -14,7 +14,7 @@ description: Оптовая продажа медикаментов, издел�
 ---
 orientation: horizontal
 ---
-  :::div{.w-full .flex .justify-center}
+  :::div{.w-full.flex.justify-center}
   ![ООО «Бона Фиде»](/favicon.svg){.h-96.w-96}
   :::
 
