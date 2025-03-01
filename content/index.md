@@ -36,7 +36,7 @@ Nuxt UI Pro is a collection of premium components built on top of Nuxt UI to cre
   to: /getting-started
   trailing-icon: i-lucide-arrow-right
   ---
-  Get started
+  Продукция
   :::
 
   :::u-button
