@@ -6,7 +6,11 @@ export default defineAppConfig({
     },
 
     primary: 'sky',
-    neutral: 'slate'
+    neutral: 'slate',
+
+    icons: {
+      chevron: 'i-material-symbols-architecture-rounded'
+    }
   },
   uiPro: {
     footer: {
