@@ -14,20 +14,14 @@ description: Оптовая продажа медикаментов, издел�
 ---
 orientation: horizontal
 ---
-  :::prose-pre
-  ---
-  code: npx nuxi init -t github:nuxt-ui-pro/docs
-  filename: Terminal
-  ---
-  ```bash
-  npx nuxi init -t github:nuxt-ui-pro/docs
-  ```
+  :::div{.w-full .flex .justify-center}
+  ![ООО «Бона Фиде»](/favicon.svg){.h-96.w-96}
   :::
 
-#title
-
 #description
-Nuxt UI Pro is a collection of premium components built on top of Nuxt UI to create beautiful & responsive applications in minutes.
+Оптовая продажа медикаментов, изделий медицинского назначения.
+
+Изготовление и оптовая продажа продажа комплектующих для грузоподъемного оборудования.
 
 #links
   :::u-button
@@ -50,6 +44,9 @@ Nuxt UI Pro is a collection of premium components built on top of Nuxt UI to cre
   ---
   Use this template
   :::
+
+#title
+Бона Фиде
 ::
 
 ::u-page-section

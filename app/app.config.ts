@@ -28,11 +28,11 @@ export default defineAppConfig({
     to: '/',
     logo: {
       alt: 'ООО «Бона Фиде»',
-      light: '/favicon.svg',
-      dark: '/favicon.svg'
+      light: '/logo.svg',
+      dark: '/logo.svg'
     },
     search: true,
-    colorMode: true,
+    colorMode: false,
     links: [{
       'icon': 'i-simple-icons-github',
       'to': 'https://github.com/nuxt-ui-pro/docs/tree/v3',
@@ -42,7 +42,7 @@ export default defineAppConfig({
   },
   footer: {
     credits: `Copyright © ${new Date().getFullYear()}`,
-    colorMode: false,
+    colorMode: true,
     links: [{
       'icon': 'i-simple-icons-nuxtdotjs',
       'to': 'https://nuxt.com',
