@@ -1,8 +1,13 @@
 ---
 seo:
-  title: Nuxt UI Pro - Docs template
-  description: Nuxt UI Pro is a collection of premium Vue components built on top
-    of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.
+  title: ООО «Бона Фиде»
+  description: Оптовая продажа медикаментов, изделий медицинского
+    назначения.  Изготовление и оптовая продажа продажа комплектующих для
+    грузоподъемного оборудования.
+title: ООО «Бона Фиде»
+description: Оптовая продажа медикаментов, изделий медицинского
+  назначения.  Изготовление и оптовая продажа продажа комплектующих для
+  грузоподъемного оборудования.
 ---
 
 ::u-page-hero
@@ -20,7 +25,6 @@ orientation: horizontal
   :::
 
 #title
-Build your docs with Nuxt UI Pro
 
 #description
 Nuxt UI Pro is a collection of premium components built on top of Nuxt UI to create beautiful & responsive applications in minutes.
