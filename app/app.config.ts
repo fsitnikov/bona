@@ -24,12 +24,12 @@ export default defineAppConfig({
     siteName: 'ООО «Бона Фиде»'
   },
   header: {
-    title: '',
+    title: 'ООО «Бона Фиде»',
     to: '/',
     logo: {
-      alt: '',
-      light: '',
-      dark: ''
+      alt: 'ООО «Бона Фиде»',
+      light: '/favicon.svg',
+      dark: '/favicon.svg'
     },
     search: true,
     colorMode: true,
